@@ -25,4 +25,4 @@ else:
     elif x < 0 and y < 0:
         print("El punto esta en el Cuadrante III")
     elif x > 0 and y < 0:
-        print("El punto esta en el Cuadrante 4")
+        print("El punto esta en el Cuadrante IV")
